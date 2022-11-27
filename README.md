@@ -1,4 +1,4 @@
-<h3 align="left">I'm Roma! Average applied math enjoyer and Data Scientist @ Yandex</h3>
+<h3 align="left">I'm Roma! Average applied math enjoyer and middle DS/DA/DE/MLE/whatever
 
 
 - Currently learning to **engineer everything everywhere all at once**, at least in machine learning and data analytics.
