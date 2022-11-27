@@ -3,7 +3,7 @@
 
 - Currently learning to **engineer everything everywhere all at once**, at least in machine learning and data analytics.
 
-- I regularly write articles and thoughts on [https://t.me/import_happiness](https://t.me/import_happiness)
+- I regularly write articles and thoughts on my telegram channel [Import Happiness](https://t.me/import_happiness)
 
 - Ask me about **reinforcement learning, analytics, convex optimization and computer vision**
 
