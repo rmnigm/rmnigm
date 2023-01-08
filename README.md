@@ -1,13 +1,29 @@
-<h3 align="left">I'm Roma!</h3>
+# Hello, I'm Roma Nigmatullin! 
 
-I'm a data analyst and engineer at Yandex Self-Driving Group and computer science and math student in NRU HSE in Moscow.
-My scientific interests are machine learning, optimization, computer vision and autonomus robotics. 
-- I regularly write articles and posts on my telegram channel [Import Happiness](https://t.me/import_happiness)
-- Reach me at **roman.nigmatullinm@gmail.com**
+![Python](https://img.shields.io/badge/-%20%20%20%20python%20%20%20-39998e?logo=python&style=for-the-badge&suffix=expert&logoColor=white)
+![SQL](https://img.shields.io/badge/-%20%20%20%20SQL%20%20%20-ffdc7c?&logo=postgresql&style=for-the-badge&suffix=expert)
+![C++](https://img.shields.io/badge/-C++%20-da674a?logo=cplusplus&style=for-the-badge&suffix=expert&logoColor=white)
 
+## 🔎 About
 
-<h3 align="left">Contacts:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rmnigm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rmnigm" height="20" width="30" /></a>
-<a href="https://www.leetcode.com/rmnigm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rmnigm" height="20" width="30" /></a>
-</p>
+Data Analyst / Engineer with deep interest in computer vision, ranking systems, self-driving tecnhologies and quantative finance; fascinated by everything new and complex in analytics, math, software development.
+I enjoy conquering hard problems, creating well-designed and data-driven solutions for them, even if it takes a lot of new knowledge to go through!
+
+### 🚀 Work
+- Now I'm working at [Yandex Self-Driving Group](https://sdg.yandex.com/) as a Data Scientist.
+- Also worked in [Yandex Market](https://market.yandex.ru/) - one of the biggest E-Commerce platforms.
+
+### 🎓 Education
+- Currently studying at [Higher School of Economics](https://www.hse.ru/en/), Applied Mathematics bachelor.
+- [Yandex School of Data Analysis](https://academy.yandex.ru/dataschool/) external student.
+- Mastering **Python**, Data Engineering and ML/DL Engineering and System Design.
+- Researching computer vision algorithms for human gait recognition - contact me if you are familiar with the topic and want to collaborate!
+
+### Contacts
+
+[![My blog in Telegram](https://img.shields.io/badge/-TG%20%E2%A0%80blog-39998e?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/import_happiness)
+[![roman.nigmatullinm@gmail.com](https://img.shields.io/badge/%E2%A0%80%E2%A0%80Email%E2%A0%80%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=ffdc7c)](mailto:roman.nigmatullinm@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ffaa67)](https://www.linkedin.com/in/rmnigmatullin/)
+[![Github](https://img.shields.io/badge/-%E2%A0%80Github%E2%A0%80-da674a?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/rmnigm)
+
+### DM me for my CV in LinkedIn.
