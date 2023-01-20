@@ -24,5 +24,3 @@ I enjoy conquering hard problems, creating well-designed and data-driven solutio
 [![roman.nigmatullinm@gmail.com](https://img.shields.io/badge/%E2%A0%80%E2%A0%80Email%E2%A0%80%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=ffdc7c)](mailto:roman.nigmatullinm@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ffaa67)](https://www.linkedin.com/in/rmnigmatullin/)
 [![Github](https://img.shields.io/badge/-%E2%A0%80Github%E2%A0%80-da674a?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/rmnigm)
-
-### DM me in LinkedIn for my CV.
