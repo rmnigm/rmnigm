@@ -12,13 +12,11 @@ I enjoy conquering hard problems, creating well-designed and data-driven solutio
 
 ### 🚀 Work
 - Now I'm working at [Yandex Self-Driving Group](https://sdg.yandex.com/) as a Data Scientist.
-- Also worked in [Yandex Market](https://market.yandex.ru/) - one of the biggest E-Commerce platforms.
+- Also worked in [Yandex Market](https://market.yandex.ru/) - one of the biggest E-Commerce platforms in Russia.
 
 ### 🎓 Education
 - Currently studying at [Higher School of Economics](https://www.hse.ru/en/), Applied Mathematics bachelor.
-- [Yandex School of Data Analysis](https://academy.yandex.ru/dataschool/) external student.
-- Mastering **Python**, Data Engineering and ML/DL Engineering and System Design.
-- Researching computer vision algorithms for human gait recognition - contact me if you are familiar with the topic and want to collaborate!
+- Mastering **Python**, Data Engineering, ML Engineering and System Design.
 
 ## Contacts
 
