@@ -16,7 +16,8 @@ I enjoy conquering hard problems, creating well-designed and data-driven solutio
 
 ### 🎓 Education
 - Currently studying at [Higher School of Economics](https://www.hse.ru/en/), Applied Mathematics bachelor.
-- Mastering **Python**, Data Engineering, ML Engineering and System Design.
+- Mastering Data Engineering, ML Engineering and System Design.
+- Teaching **Python** and Data Analytics in a faculty student circle.
 
 ## Contacts
 
