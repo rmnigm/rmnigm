@@ -7,11 +7,11 @@
 
 ## 🔎 About
 
-Data Scientist / Engineer with deep interest in computer vision, ranking systems, self-driving tecnhologies and quantative finance; fascinated by everything new and complex in analytics, math, software development.
+Data Analyst / Engineer with deep interest in computer vision, ranking systems, self-driving tecnhologies and quantative finance; fascinated by everything new and complex in analytics, math, software development.
 I enjoy conquering hard problems, creating well-designed and data-driven solutions for them, even if it takes a lot of new knowledge to go through!
 
 ### 🚀 Work
-- Now I'm working at [Yandex Self-Driving Group](https://sdg.yandex.com/) as a Data Scientist.
+- Now I'm working at [Yandex Self-Driving Group](https://sdg.yandex.com/) at Product Analytics Team.
 - Also worked in [Yandex Market](https://market.yandex.ru/) - one of the biggest E-Commerce platforms in Russia.
 
 ### 🎓 Education
