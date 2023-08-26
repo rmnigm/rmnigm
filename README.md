@@ -7,16 +7,13 @@
 
 ## About
 
-Data Analyst / Engineer with deep interest in computer vision, ranking systems, self-driving tecnhologies and quantative finance; fascinated by everything new and complex in analytics, math, software development.
+Data Scientist with deep interest in computer vision, data engineering, machine learning systems and quantative finance.
+I'm fascinated by everything new and complex in analytics, math, software development.
 I enjoy conquering hard problems, creating well-designed and data-driven solutions for them, even if it takes a lot of new knowledge to go through!
 
-### Work
-- Now I'm working at [Yandex Self-Driving Group](https://sdg.yandex.com/) at Product Analytics Team.
-- Also worked in [Yandex Market](https://market.yandex.ru/) - one of the biggest E-Commerce platforms in Russia.
-
-### Education
-- Currently studying at [Higher School of Economics](https://www.hse.ru/en/), Applied Mathematics bachelor.
-- Mastering Data Engineering, ML Engineering and System Design.
+### Work, education
+- Now I'm working at [Yandex Self-Driving Group](https://sdg.yandex.com/), previously in [Yandex Market](https://market.yandex.ru/).
+- Currently studying at [Higher School of Economics](https://www.hse.ru/en/), Applied Mathematics bachelor, and in [YSDA](https://shad.yandex.ru).
 
 ## Contacts
 
