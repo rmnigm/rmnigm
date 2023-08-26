@@ -1,10 +1,5 @@
 # Hello, I'm Roma Nigmatullin! 
 
-![Python](https://img.shields.io/badge/-%20%20%20%20python%20%20%20-39998e?logo=python&style=for-the-badge&suffix=expert&logoColor=white)
-![SQL](https://img.shields.io/badge/-%20%20%20%20SQL%20%20%20-ffdc7c?&logo=postgresql&style=for-the-badge&suffix=expert)
-![PyTorch](https://img.shields.io/badge/-PyTorch%20-da674a?logo=pytorch&style=for-the-badge&suffix=expert&logoColor=white)
-![C++](https://img.shields.io/badge/-C++%20-blue?logo=cplusplus&style=for-the-badge&suffix=expert&logoColor=white)
-
 ## About
 
 Data Scientist with deep interest in computer vision, data engineering, machine learning systems and quantative finance.
