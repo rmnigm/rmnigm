@@ -2,7 +2,7 @@
 
 ## About
 
-Data Scientist with deep interest in computer vision, data engineering, machine learning systems and quantative finance.
+Data Scientist with deep interest in highload, data engineering, machine learning systems and quantative finance.
 I'm fascinated by everything new and complex in analytics, math, software development.
 I enjoy conquering hard problems, creating well-designed and data-driven solutions for them, even if it takes a lot of new knowledge to go through!
 
