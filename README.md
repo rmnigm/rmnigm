@@ -8,7 +8,7 @@ Keen on developing scalable and simple software for machine learning systems and
 ### Work, education
 - Now I'm working at [Lavka / Yango Deli](https://deli.yango.com/).
 - Previously in [Yandex Self-Driving Group](https://sdg.yandex.com/), [Market](https://market.yandex.ru/).
-- - [YSDA](https://shad.yandex.ru) Machine Learning Development student.
+- [YSDA](https://shad.yandex.ru) Machine Learning Development student.
 - [Higher School of Economics](https://www.hse.ru/en/) Applied Mathematics BSc.
 
 ## Contacts
