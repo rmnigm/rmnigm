@@ -6,10 +6,10 @@ Data Scientist with deep interest in machine learning, quantitative finance, dat
 Keen on developing scalable and simple software for machine learning systems and data platforms.
 
 ### Work, education
-- Now I'm working at [Lavka / Yango Deli](https://deli.yango.com/).
-- Previously in [Yandex Self-Driving Group](https://sdg.yandex.com/), [Market](https://market.yandex.ru/).
+- Now I'm working at [Lavka / Yango Deli](https://deli.yango.com).
+- Previously in [Yandex Self-Driving Group](https://sdg.yandex.ru), [Market](https://market.yandex.ru).
 - [YSDA](https://shad.yandex.ru) Machine Learning Development student.
-- [Higher School of Economics](https://www.hse.ru/en/) Applied Mathematics BSc.
+- [Higher School of Economics](https://www.hse.ru/en) Applied Mathematics BSc.
 
 ## Contacts
 
