@@ -1,14 +1,15 @@
-# Hello, I'm Roma Nigmatullin! 
+# Roma Nigmatullin
 
 ## About
 
-Data Scientist with deep interest in highload, data engineering, machine learning systems and quantative finance.
-I'm fascinated by everything new and complex in analytics, math, software development.
-I enjoy conquering hard problems, creating well-designed and data-driven solutions for them, even if it takes a lot of new knowledge to go through!
+Data Scientist with deep interest in machine learning, quantitative finance, data processing and statistics.
+Keen on developing scalable and simple software for machine learning systems and data platforms.
 
 ### Work, education
-- Now I'm working at [Yandex Self-Driving Group](https://sdg.yandex.com/), previously in [Yandex Market](https://market.yandex.ru/).
-- Currently studying at [Higher School of Economics](https://www.hse.ru/en/), Applied Mathematics bachelor, and in [YSDA](https://shad.yandex.ru).
+- Now I'm working at [Lavka / Yango Deli](https://deli.yango.com/).
+- Previously in [Yandex Self-Driving Group](https://sdg.yandex.com/), [Market](https://market.yandex.ru/).
+- - [YSDA](https://shad.yandex.ru) Machine Learning Development student.
+- [Higher School of Economics](https://www.hse.ru/en/) Applied Mathematics BSc.
 
 ## Contacts
 
