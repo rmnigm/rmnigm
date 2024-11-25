@@ -12,6 +12,6 @@ Keen on developing scalable and simple software for machine learning systems and
 
 ## Contacts
 
-[![My blog in Telegram](https://img.shields.io/badge/-TG%20%E2%A0%80blog-39998e?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/import_happiness)
-[![roman.nigmatullinm@gmail.com](https://img.shields.io/badge/%E2%A0%80%E2%A0%80Email%E2%A0%80%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=ffdc7c)](mailto:roman.nigmatullinm@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ffaa67)](https://www.linkedin.com/in/rmnigmatullin/)
+- My blog in Telegram [@import_happiness](https://t.me/import_happiness)
+- My LinkedIn profile [rmnigmatullin](https://www.linkedin.com/in/rmnigmatullin/)
+- E-mail [roman.nigmatullinm@gmail.com](mailto:roman.nigmatullinm@gmail.com)
