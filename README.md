@@ -2,14 +2,13 @@
 
 ## About
 
-Data Scientist with deep interest in machine learning, quantitative finance, data processing and statistics.
+ML Engineer / Researcher with deep interest in machine learning, quantitative finance, data processing and statistics.
 Keen on developing scalable and simple software for machine learning systems and data platforms.
 
 ### Work, education
-- Now I'm working at [Lavka / Yango Deli](https://deli.yango.com).
-- Previously in [Yandex Self-Driving Group](https://sdg.yandex.ru), [Market](https://market.yandex.ru).
-- [YSDA](https://shad.yandex.ru) Machine Learning Development student.
-- [Higher School of Economics](https://www.hse.ru/en) Applied Mathematics BSc.
+- Now I'm working at Yandex Lavka (e-grocery) as a Machine Learning Engineer.
+- Previously in other Yandex departments: [Self-Driving Group](https://sdg.yandex.ru), [Market](https://market.yandex.ru).
+- [HSE CS](https://cs.hse.ru/en/) x [YSDA](https://shad.yandex.ru) Applied Math and Computer Science MSc student.
 
 ## Contacts
 
