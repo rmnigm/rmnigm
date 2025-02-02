@@ -2,8 +2,8 @@
 
 ## About
 
-ML Engineer / Researcher with deep interest in machine learning, quantitative finance, data processing and statistics.
-Keen on developing scalable and simple software for machine learning systems and data platforms.
+ML Engineer / Researcher specializing in deep learning and recommender systems. My interests also include information retrieval, self-driving cars and large-scale data processing.
+Keen on developing scalable and simple software for machine learning systems and data platforms. 
 
 ### Work, education
 - Now I'm working at Yandex Lavka (e-grocery) as a Machine Learning Engineer.
