@@ -6,8 +6,8 @@ ML Engineer / Researcher specializing in deep learning and recommender systems. 
 Keen on developing scalable and simple software for machine learning systems and data platforms. 
 
 ### Work, education
-- Now I'm working at Constructor as a Machine Learning Engineer for Search Query team.
-- Previously in Yandex: [Lavka / Deli](https://deli.yango.com/) (e-grocery), [Self-Driving Group](https://sdg.yandex.ru), [Market](https://market.yandex.ru).
+- Now I'm working at [Constructor](https://constructor.com/) as a Machine Learning Engineer for Search Query team.
+- Previously in Yandex: [Lavka / Deli](https://deli.yango.com/), [Self-Driving Group](https://sdg.yandex.ru), [Market](https://market.yandex.ru).
 - [HSE CS](https://cs.hse.ru/en/) x [YSDA](https://shad.yandex.ru) Applied Math and Computer Science MSc student.
 
 ## Contacts
